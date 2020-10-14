@@ -1,5 +1,11 @@
 # Changelog
 
+## 8.1.1
+
+### Patch Changes
+
+- d808970: Bump focus-trap dependency to 6.1.3. No functional changes.
+
 ## 8.1.0
 
 ### Minor Changes
